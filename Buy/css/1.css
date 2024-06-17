@@ -1,0 +1,75 @@
+*{
+    margin: 10px; padding: 10px;
+    position: relative;
+}
+
+    body{
+        background-color: rgba(104, 104, 104, 0.515);
+        font-size: 18px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .infor-MN{
+        position: absolute;
+        top: 100px; bottom: 100px;
+        right: 100px; left: 800px;
+        border-radius: 1% 1% 1% 1%;
+        width: 400px; height: 600px;
+        background-color: aqua;
+    }
+    #IDcard{
+        color: blue;
+        font-size: 17px;
+        font-weight: 100;
+    }
+
+    #password{
+        color: rgb(255, 0, 68);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 58px; bottom: 58px;
+    }
+
+    #CVV2{
+        color: rgb(0, 204, 255);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 135px; bottom: 135px;
+    }
+    #phone{
+        color: rgb(255, 0, 119);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 189px; bottom: 189px;
+    }
+    #age{
+        color: rgb(255, 183, 0);
+        font-size: 17px;
+        font-weight: 100;
+        top: 211px; bottom: 211px;
+    }
+    #name{
+        color: rgba(0, 123, 255, 0.628);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 256px; bottom: 256px;
+    }
+    #message{
+        color: rgb(0, 5, 6);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 420px; bottom:420px;
+    }
+    #destinationcard{
+        color: rgb(131, 0, 9);
+        font-size: 17px;
+        font-weight: 100;
+        position: absolute;
+        top: 360px; bottom: 360px;
+    }
+
+
+   

@@ -1,0 +1,21 @@
+.infor-Input{
+    position: absolute;
+    top: 100px; bottom: 100px;
+    right: 530px; left: 530px;
+    border-radius: 1% 1% 1% 1%;
+    width: 400px; height: 600px;
+    background-color: beige;
+}
+
+button{
+    width:100x; height: 50px;
+    border-radius: 2% 2% 2% 2%;
+    color: red;
+    background-color: chartreuse;
+}
+
+button:hover{
+    color: blue;
+    background-color: aqua;
+    width: 400px; height: 100px;
+}
